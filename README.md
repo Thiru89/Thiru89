@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Thiru89/Thiru89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<
+**Thiru89- Thiru** 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on ...Azure SQL 
+- 🌱 I’m currently learning ... Artificial Intelligence
+- 👯 I’m looking to collaborate on ... AI/Python/Data Mining/Datawarehouse/Datavault/SQLserver/SSIS/Java Script/PowerBI/Tableau
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about ...AI/Python/Data Mining/Datawarehouse/Datavault/SQLserver/SSIS/Java Script/PowerBI/Tableau
+- 📫 How to reach me: ... 
+- 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: ...
--->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiru89&theme=dark" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=thiru89&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+
+
+
+
+
