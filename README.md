@@ -3,8 +3,8 @@
 <
 **Thiru89- Thiru** 
 
-- 🔭 I’m currently working on ...Azure SQL 
-- 🌱 I’m currently learning ... Artificial Intelligence
+- 🔭 I’m currently working on ...Python and exploring Langchain Framework. 
+- 🌱 I’m currently learning ... Artificial Intelligence, Javascript
 - 👯 I’m looking to collaborate on ... AI/Python/Data Mining/Datawarehouse/Datavault/SQLserver/SSIS/Java Script/PowerBI/Tableau
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...AI/Python/Data Mining/Datawarehouse/Datavault/SQLserver/SSIS/Java Script/PowerBI/Tableau
