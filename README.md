@@ -4,11 +4,10 @@
 **Thiru89- Thiru** 
 
 - 🔭 I’m currently working on ...Python and exploring Langchain Framework. 
-- 🌱 I’m currently learning ... Artificial Intelligence, Javascript
-- 👯 I’m looking to collaborate on ... AI/Python/Data Mining/Datawarehouse/Datavault/SQLserver/SSIS/Java Script/PowerBI/Tableau
+- 👯 I’m looking to collaborate on ... AI/Python/Data Mining/Datawarehouse/Datavault/SQL server/SSIS/Java Script/PowerBI/Tableau
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...AI/Python/Data Mining/Datawarehouse/Datavault/SQLserver/SSIS/Java Script/PowerBI/Tableau
-- 📫 How to reach me: ... 
+- 💬 Ask me about ...AI/Python/Data Mining/Datawarehouse/Datavault/SQL server/SSIS/Azure Synapse/Azure Storage Account/Azure CosmosDB/Azure Event Grid/Vector databases/ADF
+- 📫 How to reach me: ... via linkedin https://www.linkedin.com/in/thirunavukkarasu-narayanan/ 
 - 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: ...
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiru89&theme=dark" width="48%" />
